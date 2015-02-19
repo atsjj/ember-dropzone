@@ -1,7 +1,7 @@
 {
   "name": "ember-dropzone",
   "version": "0.0.0",
-  "description": "Small description for ember-dropzone goes here",
+  "description": "Example of dropzone wrapped in an Ember component.",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -12,11 +12,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "http://github.com/atsjj/ember-dropzone",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Steve Jabour <steve@jabour.me>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
